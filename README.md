@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! My name is Keegan Hugh Kelly :) I'm currently working on creating a Financial Analysis Tool based on the Blockchain.com API that can manipulate the data & make predictions on different cryptocurrencies with the hopes of it being autonomous. I'm a self-taught developer - I'm mainly building my web applications using Python and/or TypeScript with a Next.js framework.
+Hey there! My name is Keegan Hugh Kelly :) I'm a Junior Data Solutions Engineer at MickeyLlew. I enjoy creating autonomous systems and interactive websites.
 
 
 ## 🌐 Socials:
