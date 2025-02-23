@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! My name is Keegan Hugh Kelly :) I'm a Junior Data Solutions Engineer at MickeyLlew. I enjoy creating autonomous systems and interactive websites.
+Hey!👋 I'm Keegan, a Data Solutions Engineer currently working at MickeyLlew SEO Agency. My interets lie in all things that are practical and have real world impact through building, designing and maintaining systems or creating expierences by the websites and applications I create. Best place to get into contact with me would be on my socials or via my [email 📧](mailto:kgnhughkelly@gmail.com).
 
 
 ## 🌐 Socials:
